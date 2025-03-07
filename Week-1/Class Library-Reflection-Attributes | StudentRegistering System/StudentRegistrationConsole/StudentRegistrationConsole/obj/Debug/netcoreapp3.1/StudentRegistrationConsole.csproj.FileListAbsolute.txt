@@ -1,0 +1,14 @@
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/bin/Debug/netcoreapp3.1/StudentRegistrationConsole
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/bin/Debug/netcoreapp3.1/StudentRegistrationConsole.deps.json
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/bin/Debug/netcoreapp3.1/StudentRegistrationConsole.runtimeconfig.json
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/bin/Debug/netcoreapp3.1/StudentRegistrationConsole.runtimeconfig.dev.json
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/bin/Debug/netcoreapp3.1/StudentRegistrationConsole.dll
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/bin/Debug/netcoreapp3.1/StudentRegistrationConsole.pdb
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/bin/Debug/netcoreapp3.1/RequiredFieldControl.dll
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/bin/Debug/netcoreapp3.1/RequiredFieldControl.pdb
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/obj/Debug/netcoreapp3.1/StudentRegistrationConsole.csprojAssemblyReference.cache
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/obj/Debug/netcoreapp3.1/StudentRegistrationConsole.AssemblyInfoInputs.cache
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/obj/Debug/netcoreapp3.1/StudentRegistrationConsole.AssemblyInfo.cs
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/obj/Debug/netcoreapp3.1/StudentRegistrationConsole.csproj.CopyComplete
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/obj/Debug/netcoreapp3.1/StudentRegistrationConsole.dll
+/Users/kadir/Projects/StudentRegistrationConsole/StudentRegistrationConsole/obj/Debug/netcoreapp3.1/StudentRegistrationConsole.pdb

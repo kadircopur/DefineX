@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{DA0915DC-04B5-45EF-BDDD-A66DFD738088}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DefineX-Day1/Controllers/PaymentController.cs">
+    <Files>
+      <File FileName="DefineX-Day1/Controllers/PaymentController.cs" Line="28" Column="10" />
+      <File FileName="DefineX-Day1/Views/Payment/Index.cshtml" Line="5" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DefineX-Day1" expanded="True">
+            <Node name="DefineX-Day1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PaymentController.cs" selected="True" />
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Payment" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kadir/Projects/DefineX-Day1/DefineX-Day1/Views/Payment/lq46u4jo.gzg~" relfile="DefineX-Day1/Views/Payment/lq46u4jo.gzg~" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DefineX-Day1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

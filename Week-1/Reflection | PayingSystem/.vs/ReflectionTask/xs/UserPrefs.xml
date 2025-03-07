@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DA0915DC-04B5-45EF-BDDD-A66DFD738088}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DefineX-Day1/Controllers/PaymentController.cs">
+    <Files>
+      <File FileName="DefineX-Day1/Controllers/PaymentController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReflectionTask" expanded="True">
+            <Node name="ReflectionTask" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PaymentController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ReflectionTask PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kadir/Projects/DefineX-Day1/DefineX-Day1/Views/Payment/lq46u4jo.gzg~" relfile="DefineX-Day1/Views/Payment/lq46u4jo.gzg~" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

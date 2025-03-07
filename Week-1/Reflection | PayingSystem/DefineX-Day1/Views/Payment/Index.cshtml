@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Payment Page";
+}
+
+<div class="container text-start">
+    <form asp-action="ProcessPayment">
+        <div class="p-3">
+            <label for="paymentType">Payment Type:</label><br>
+            <select id="paymentType" name="paymentType">
+                @foreach (var method in ViewBag.PaymentTypes)
+                {
+                    <option value="@method">@method</option>
+                }
+            </select>
+        </div>
+        <div>
+            <label for="price">Price:</label><br>
+            <input type="number" id="price" name="price">
+        </div><br><br>
+
+        <input type="submit" value="Pay">
+    </form><br><br>
+
+    <h6>@(TempData["Result"] ?? "The price will be shown here")</h6>
+</div>

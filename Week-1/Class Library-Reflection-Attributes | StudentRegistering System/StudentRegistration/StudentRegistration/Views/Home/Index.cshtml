@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="container">
+        <h2>Student Registration</h2>
+
+        <form asp-action="Register">
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname" value=""><br>
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname" value=""><br>
+            <label for="lname">Major:</label><br>
+            <input type="text" id="major" name="major" value=""><br><br>
+            <input type="submit" value="Submit">
+        </form><br><br>
+
+        @if (TempData["Result"] != null)
+        {
+            <div class="@((bool)TempData["Result"] ? "info" : "alert")">
+                <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+                <strong>@((bool)TempData["Result"] ? "Success!" : "Error!")</strong>
+                @((bool)TempData["Result"] ? "Registration is successful." : "Please fill all the fields.")
+            </div>
+        }
+
+    </div>

@@ -1,0 +1,8 @@
+/Users/kadir/Projects/RequiredFieldControl/RequiredFieldControl/bin/Debug/netcoreapp3.1/RequiredFieldControl.deps.json
+/Users/kadir/Projects/RequiredFieldControl/RequiredFieldControl/bin/Debug/netcoreapp3.1/RequiredFieldControl.dll
+/Users/kadir/Projects/RequiredFieldControl/RequiredFieldControl/bin/Debug/netcoreapp3.1/RequiredFieldControl.pdb
+/Users/kadir/Projects/RequiredFieldControl/RequiredFieldControl/obj/Debug/netcoreapp3.1/RequiredFieldControl.csprojAssemblyReference.cache
+/Users/kadir/Projects/RequiredFieldControl/RequiredFieldControl/obj/Debug/netcoreapp3.1/RequiredFieldControl.AssemblyInfoInputs.cache
+/Users/kadir/Projects/RequiredFieldControl/RequiredFieldControl/obj/Debug/netcoreapp3.1/RequiredFieldControl.AssemblyInfo.cs
+/Users/kadir/Projects/RequiredFieldControl/RequiredFieldControl/obj/Debug/netcoreapp3.1/RequiredFieldControl.dll
+/Users/kadir/Projects/RequiredFieldControl/RequiredFieldControl/obj/Debug/netcoreapp3.1/RequiredFieldControl.pdb
