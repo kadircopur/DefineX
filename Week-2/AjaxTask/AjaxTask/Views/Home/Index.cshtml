@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<head></head>
+<body>
+    <p><b>Start typing a name in the input field below:</b></p>
+    <form>
+        Product Name: <input type="text" id="searchTextField"  placeholder="Type something...">
+        <input type="button" onclick="clearSearchField()" value="Clear">
+    </form><br><br>
+
+    <p>Suggestions: <span id="txtHint"></span></p>
+    <ul id="result">
+    </ul>
+</body>
+
+
+@section Scripts
+{
+    <script type="text/javascript">
+
+        function clearSearchField() {
+            $('#searchTextField').val(null);
+            $("#result").html(null);
+            $('#searchTextField').focus();
+        }
+
+        function getProductInfo() {
+            $("#result").html(null);
+            var searchText = $('#searchTextField').val();
+
+            $.ajax({
+                type: "POST",
+                url: '/Product/GetProducts', 
+                data: JSON.stringify({ text: searchText }),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                async: true,
+
+                success: (result) => {
+                    $.each(result, (_, value) => {
+                        $("#result").append("<li>" + value.name + "</li>");
+                    });
+                },
+                error: () => {
+                    alert("Error while getting data");
+                }
+            });
+        }
+        
+        $('#searchTextField').on('input', (val) => {
+            getProductInfo();
+        });
+     
+    </script>
+}
+
+
+ 

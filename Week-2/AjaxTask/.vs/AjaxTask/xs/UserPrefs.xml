@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{DDE1A0FB-81E7-444C-8270-7CEC534D8079}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AjaxTask/Startup.cs">
+    <Files>
+      <File FileName="AjaxTask/Views/Home/Index.cshtml" Line="35" Column="46" />
+      <File FileName="AjaxTask/Controllers/ProductController.cs" Line="9" Column="2" />
+      <File FileName="AjaxTask/Startup.cs" Line="21" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AjaxTask" expanded="True">
+            <Node name="AjaxTask" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kadir/Projects/AjaxTask/AjaxTask/Views/Home/6wqbc6sn.f24~" relfile="AjaxTask/Views/Home/6wqbc6sn.f24~" line="28" column="1" />
+      <Breakpoint file="/Users/kadir/Projects/AjaxTask/AjaxTask/Views/Home/t9chanrm.2kr~" relfile="AjaxTask/Views/Home/t9chanrm.2kr~" line="28" column="1" />
+      <Breakpoint file="/Users/kadir/Projects/AjaxTask/AjaxTask/Views/Home/mbsnaecj.bjd~" relfile="AjaxTask/Views/Home/mbsnaecj.bjd~" line="28" column="1" />
+      <Breakpoint file="/Users/kadir/Projects/AjaxTask/AjaxTask/Views/Home/fyuobiv2.x38~" relfile="AjaxTask/Views/Home/fyuobiv2.x38~" line="28" column="1" />
+      <Breakpoint file="/Users/kadir/Projects/AjaxTask/AjaxTask/Views/Home/uu33ack6.oe9~" relfile="AjaxTask/Views/Home/uu33ack6.oe9~" line="28" column="1" />
+      <Breakpoint file="/Users/kadir/Projects/AjaxTask/AjaxTask/Views/Home/0rdx3qad.vlb~" relfile="AjaxTask/Views/Home/0rdx3qad.vlb~" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AjaxTask PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
