@@ -1,0 +1,5 @@
+Resources:
+
+https://konghq.com/resources/videos/api-gateways-one-vs-muliple\
+
+https://learn.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern
